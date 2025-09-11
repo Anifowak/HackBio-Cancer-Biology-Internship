@@ -104,11 +104,11 @@ This tool calculates the concentration of DNA or RNA based on absorbance values.
 
 If you have any questions or feedback, feel free to contact the contributors:
 
-- **Tomilayo Oluwaseun Fadairo**: [Oluwaseuntomilayo9@gmail.com](mailto:Oluwaseuntomilayo9@gmail.com)
-- **Akinjide Samuel Anifowose**: [Anifowosesamuel54@gmail.com](mailto:Anifowosesamuel54@gmail.com)
-- **Opeoluwa Shodipe**: [Opeoluwashodipe94@gmail.com](mailto:Opeoluwashodipe94@gmail.com)
-- **Ndubueze Ngozika Abigail**: [ndubungoabi2002@gmail.com](mailto:ndubungoabi2002@gmail.com)
-- **Nwankwo Peace Nneka**: [nnekapeace85@gmail.com](mailto:nnekapeace85@gmail.com)
+- [Tomilayo Oluwaseun Fadairo](mailto:Oluwaseuntomilayo9@gmail.com)
+- [Akinjide Samuel Anifowose](mailto:Anifowosesamuel54@gmail.com)
+- [Opeoluwa Shodipe](mailto:Opeoluwashodipe94@gmail.com)
+- [Ndubueze Ngozika Abigail](mailto:ndubungoabi2002@gmail.com)
+- [Nwankwo Peace Nneka](mailto:nnekapeace85@gmail.com)
 
 ---
 
