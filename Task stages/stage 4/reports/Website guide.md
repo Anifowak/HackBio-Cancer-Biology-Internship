@@ -72,11 +72,11 @@ If you encounter any issues or have questions, please contact our support team v
 ---
 
 ## **Contacts**
-- **Tomilayo Oluwaseun Fadairo**: [Oluwaseuntomilayo9@gmail.com](mailto:Oluwaseuntomilayo9@gmail.com)
 - **Akinjide Samuel Anifowose**: [Anifowosesamuel54@gmail.com](mailto:Anifowosesamuel54@gmail.com)
+- **Tomilayo Oluwaseun Fadairo**: [Oluwaseuntomilayo9@gmail.com](mailto:Oluwaseuntomilayo9@gmail.com)
 - **Opeoluwa Shodipe**: [Opeoluwashodipe94@gmail.com](mailto:Opeoluwashodipe94@gmail.com)
 - **Ndubueze Ngozika Abigail**: [ndubungoabi2002@gmail.com](mailto:ndubungoabi2002@gmail.com)
 - **Nwankwo Peace Nneka**: [nnekapeace85@gmail.com](mailto:nnekapeace85@gmail.com)
 
 ---
-## **App Link:** https://goal-getters.shinyapps.io/ShinyGO/
+[App Link](https://goal-getters.shinyapps.io/ShinyGO/)
