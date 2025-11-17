@@ -35,6 +35,7 @@ The goal of this project is to create a user-friendly website that simplifies ge
 
 The Shiny GO 1.0 app is a user-friendly web application for performing Gene Set Enrichment Analysis (GSEA). It allows researchers to identify enriched gene sets based on their input gene lists, facilitating insights into biological functions and pathways.****
 
+---
 **Requirements.**
 
 A web browser (Chrome, Firefox, or any other browser)
@@ -45,7 +46,8 @@ A web browser (Chrome, Firefox, or any other browser)
 
 2\. Enter the URL to access the Shiny GO 1.0 app.
 
-3\. Click enter.
+3\. Click enter
+---
 
 **Main Features**
 
@@ -61,9 +63,13 @@ A web browser (Chrome, Firefox, or any other browser)
 
 6\. Downloading Results: Click the "Download Results" button to save your analysis in preferred formats (e.g., CSV, PDF).
 
+---
+
 **Conclusion**
 
 The Shiny GO1.0 app is a powerful tool for gene set enrichment analysis, providing an intuitive interface for researchers to derive meaningful biological insights from their gene data. Explore the functionalities and leverage the app for your research needs!
+
+---
 
 **Support**
 
